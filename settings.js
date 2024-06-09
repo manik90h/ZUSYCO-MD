@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94723000703",
+  OWNER_NUMBER: "94774407991",
   SUDO_NUMBERS : "94715166712,94719574492,94778587176",
-  OWNER_NAME: "『 Dilhara 』",
+  OWNER_NAME: "『 HARSHA 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -35,8 +35,8 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "inboxandgroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 𝚒𝚜𝚑𝚊𝚗 𝚍𝚒𝚕𝚑𝚊𝚛𝚊 ❤️🙂',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '© 𝙂𝞢𝞜𝞓𝞒𝞓𝙏𝞢 𝞑𝙔 𝞖𝞓𝞒𝙎𝞖𝞓 𝙎𝞓𝞛𝞓𝞜❤️🙂',
+  STICKER_PACK : '[ harsha ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
